@@ -1,0 +1,17 @@
+.artsy{
+font-family: 'Kurale', serif;
+}
+
+
+.btn {
+	background-color: #ff6525;
+	border-color: ff6525;
+	margin-bottom: 1rem;
+}
+
+.btn:hover {
+	background-color: #ff6525;
+	border-color: ff6525;
+	padding: 1rem;
+	margin: 1rem;
+}
